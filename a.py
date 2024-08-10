@@ -1,0 +1,1 @@
+print('Everyone loves Chelsea!')
